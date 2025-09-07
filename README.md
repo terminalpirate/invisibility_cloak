@@ -2,7 +2,8 @@
 
 This is an implementaion of ‘Invisibility Cloak’ from "Harry Potter" using simple computer vision techniques in OpenCV. 
 
-![gif showing execution](./screenrecording.gif)
+![gif showing execution](./screencapture.gif)
+*\*Choppy output due to video shot on an old laptop webcam.*
 
 This code is written in Python because it provides exhaustive and sufficient library to build this program. Here, this magical experience is created using an image processing technique called Color detection and segmentation. In order to run this code, you need an mp4 video named "video.mp4". A cloth of same color with no other color visible is used as the subject. Here a red cloth is used.
 
